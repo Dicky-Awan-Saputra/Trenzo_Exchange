@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/trenzo/static/css/main.2755900e.css",
-    "main.js": "/trenzo/static/js/main.b92ec575.js",
+    "main.js": "/trenzo/static/js/main.571d5cea.js",
     "static/js/453.0a52d612.chunk.js": "/trenzo/static/js/453.0a52d612.chunk.js",
     "index.html": "/trenzo/index.html",
     "main.2755900e.css.map": "/trenzo/static/css/main.2755900e.css.map",
-    "main.b92ec575.js.map": "/trenzo/static/js/main.b92ec575.js.map",
+    "main.571d5cea.js.map": "/trenzo/static/js/main.571d5cea.js.map",
     "453.0a52d612.chunk.js.map": "/trenzo/static/js/453.0a52d612.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2755900e.css",
-    "static/js/main.b92ec575.js"
+    "static/js/main.571d5cea.js"
   ]
 }
