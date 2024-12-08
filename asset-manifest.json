@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Trenzo_Exchange/static/css/main.2755900e.css",
-    "main.js": "/Trenzo_Exchange/static/js/main.bbcf6184.js",
+    "main.js": "/Trenzo_Exchange/static/js/main.bf980b26.js",
     "static/js/488.661d577d.chunk.js": "/Trenzo_Exchange/static/js/488.661d577d.chunk.js",
     "index.html": "/Trenzo_Exchange/index.html",
     "main.2755900e.css.map": "/Trenzo_Exchange/static/css/main.2755900e.css.map",
-    "main.bbcf6184.js.map": "/Trenzo_Exchange/static/js/main.bbcf6184.js.map",
+    "main.bf980b26.js.map": "/Trenzo_Exchange/static/js/main.bf980b26.js.map",
     "488.661d577d.chunk.js.map": "/Trenzo_Exchange/static/js/488.661d577d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2755900e.css",
-    "static/js/main.bbcf6184.js"
+    "static/js/main.bf980b26.js"
   ]
 }
